@@ -6,8 +6,8 @@ Baza danych : Muzyka
 
 Baza zawiera 2 zespoły muzyczne. Do każdego z nich przypisane są albumy, które nagrali, a z albumu możemy wyciągnąć listę utworów. 
 
-The Beatles : Sgt. Peppers Lonely Hearts Club Band
-Pink Floyd : The Dark Side Of The Moon, Animals
+The Beatles : "Sgt. Peppers Lonely Hearts Club Band"<br>
+Pink Floyd : "The Dark Side Of The Moon, Animals"<br>
 
 oraz listy utworów
 
