@@ -10,9 +10,10 @@ Zespół (Band) posiada 2 atrybuty: nazwę i rok założenia.
 Album (Album) posiada nazwę i rok wydania.
 Każdy utwór opisany jest nazwą i pozycją na płycie.
 
-W całości baza wygląda tak:
-
-[MATCH n RETURN n LIMIT 25] :
+W całości baza wygląda tak: [MATCH n RETURN n LIMIT 25] :
 
 ![Cała baza] (src/cala_baza.png)
+
+
+Albumy, które powstały po 1973: [MATCH (a:Album) WHERE a.year > 1973 RETURN a;]
 
