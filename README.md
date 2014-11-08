@@ -14,3 +14,5 @@ W całości baza wygląda tak:
 
 [MATCH n RETURN n LIMIT 25] :
 
+![Cała baza] (src/cala_baza.png)
+
